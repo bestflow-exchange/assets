@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="128px" height="128px" viewBox="0 0 128 128" version="1.1">
+<defs>
+<clipPath id="clip1">
+  <path d="M 25.5 26 L 102 26 L 102 101.5 L 25.5 101.5 Z M 25.5 26 "/>
+</clipPath>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="83.3423" y1="153.285995" x2="180.328995" y2="38.8559" gradientTransform="matrix(0.5,0,0,0.5,0,0)">
+<stop offset="0" style="stop-color:rgb(60.784314%,52.156863%,39.215686%);stop-opacity:1;"/>
+<stop offset="1" style="stop-color:rgb(85.882353%,83.529412%,78.039216%);stop-opacity:1;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="128" height="128" style="fill:rgb(0%,0%,0%);fill-opacity:0.4;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip2">
+  <rect x="0" y="0" width="128" height="128"/>
+</clipPath>
+<g id="surface5" clip-path="url(#clip2)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 72 87 C 72 91.96875 76.265625 96 81.492188 96 C 86.71875 96 91 91.953125 91 87 C 91 82.046875 86.734375 78 81.492188 78 C 76.253906 78 72 82.046875 72 87 Z M 72 87 "/>
+</g>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="128" height="128" style="fill:rgb(0%,0%,0%);fill-opacity:0.4;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip3">
+  <rect x="0" y="0" width="128" height="128"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip3)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 77.5 40.5 C 77.5 45.46875 81.765625 49.5 86.992188 49.5 C 92.21875 49.5 96.5 45.453125 96.5 40.5 C 96.5 35.546875 92.234375 31.5 86.992188 31.5 C 81.753906 31.5 77.5 35.546875 77.5 40.5 Z M 77.5 40.5 "/>
+</g>
+<mask id="mask2">
+  <g filter="url(#alpha)">
+<rect x="0" y="0" width="128" height="128" style="fill:rgb(0%,0%,0%);fill-opacity:0.4;stroke:none;"/>
+  </g>
+</mask>
+<clipPath id="clip4">
+  <rect x="0" y="0" width="128" height="128"/>
+</clipPath>
+<g id="surface11" clip-path="url(#clip4)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 31 46.5 C 31 51.742188 35.265625 56 40.507812 56 C 45.75 56 50 51.726562 50 46.5 C 50 41.273438 45.734375 37 40.507812 37 C 35.28125 37 31 41.273438 31 46.5 Z M 31 46.5 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 128 64 C 128 28.652344 99.347656 0 64 0 C 28.652344 0 0 28.652344 0 64 C 0 99.347656 28.652344 128 64 128 C 99.347656 128 128 99.347656 128 64 Z M 128 64 "/>
+<g clip-path="url(#clip1)" clip-rule="nonzero">
+<path style=" stroke:none;fill-rule:nonzero;fill:url(#linear0);" d="M 91.878906 97.085938 C 94.285156 94.585938 95.859375 91.195312 96.308594 87.53125 C 96.390625 86.851562 96.621094 84.980469 96.945312 82.359375 C 102 41.582031 102 41.128906 102 40.5 C 102 40.34375 101.996094 40.183594 101.992188 40.023438 C 101.863281 35.996094 100 32.175781 96.890625 29.539062 C 93.730469 26.859375 89.550781 25.609375 85.421875 26.105469 L 38.332031 31.796875 C 32.398438 32.511719 27.429688 36.792969 25.964844 42.445312 C 25.65625 43.632812 25.5 44.855469 25.5 46.089844 C 25.5 46.246094 25.503906 46.40625 25.507812 46.570312 C 25.679688 51.808594 28.78125 56.535156 33.59375 58.910156 C 39.015625 61.4375 49.945312 64.359375 56.441406 70.785156 C 62.933594 77.210938 65.871094 88.007812 68.421875 93.371094 L 68.441406 93.40625 C 70.851562 98.214844 75.660156 101.3125 80.996094 101.492188 C 81.164062 101.496094 81.332031 101.5 81.5 101.5 C 85.449219 101.5 89.132812 99.929688 91.875 97.082031 Z M 91.878906 97.085938 "/>
+<use xlink:href="#surface5" mask="url(#mask0)"/>
+<use xlink:href="#surface8" mask="url(#mask1)"/>
+<use xlink:href="#surface11" mask="url(#mask2)"/>
+</g>
+</g>
+</svg>
